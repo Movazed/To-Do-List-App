@@ -1,4 +1,4 @@
-# Todoister App
+# Todo App
 
 ### What is this project about?
 
@@ -21,11 +21,4 @@ To implement that project **Android** and **Java** language was used. The progra
 This posibility is provided by using **MVVM Architecture** with **LiveData** which observe data changes in the database. Besides that, MVVM architecture helps to separate the application logic from the user interface.<br> <br>
 In this project **TypeConverter** provided by Room Database has to be used to convert date type to the long type - in which dates in ROOM are stored. Similar to this, conversion of task's priority (which is saves as **ENUM**) happens.
 
-### Who is the author?
 
-👨‍💻 Implemented by: [Wojciech Kula]<br>
-📚 Based on the Udemy course by: [Paulo Dichone]
-
-
-[Paulo Dichone]: <https://www.udemy.com/user/paulodichone/>
-[Wojciech Kula]: <https://www.linkedin.com/in/wojciechkula/>
