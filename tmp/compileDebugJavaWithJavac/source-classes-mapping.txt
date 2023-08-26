@@ -1,0 +1,45 @@
+com/bawp/todoister/databinding/ActivityAboutBinding.java
+ com.bawp.todoister.databinding.ActivityAboutBinding
+com/bawp/todoister/utils/TypesConverter.java
+ com.bawp.todoister.utils.TypesConverter
+com/bawp/todoister/BuildConfig.java
+ com.bawp.todoister.BuildConfig
+com/bawp/todoister/databinding/TodoRowBinding.java
+ com.bawp.todoister.databinding.TodoRowBinding
+com/bawp/todoister/database/TaskDao.java
+ com.bawp.todoister.database.TaskDao
+com/bawp/todoister/database/Repository.java
+ com.bawp.todoister.database.Repository
+com/bawp/todoister/databinding/ActivityMainBinding.java
+ com.bawp.todoister.databinding.ActivityMainBinding
+com/bawp/todoister/databinding/BottomSheetBinding.java
+ com.bawp.todoister.databinding.BottomSheetBinding
+com/bawp/todoister/databinding/FragmentBottomSheetBinding.java
+ com.bawp.todoister.databinding.FragmentBottomSheetBinding
+com/bawp/todoister/utils/Utils.java
+ com.bawp.todoister.utils.Utils
+ com.bawp.todoister.utils.Utils$1
+com/bawp/todoister/viewmodels/SharedViewModel.java
+ com.bawp.todoister.viewmodels.SharedViewModel
+com/bawp/todoister/database/TaskRoomDatabase.java
+ com.bawp.todoister.database.TaskRoomDatabase
+ com.bawp.todoister.database.TaskRoomDatabase$1
+com/bawp/todoister/activities/AboutActivity.java
+ com.bawp.todoister.activities.AboutActivity
+com/bawp/todoister/model/Priority.java
+ com.bawp.todoister.model.Priority
+com/bawp/todoister/activities/MainActivity.java
+ com.bawp.todoister.activities.MainActivity
+ com.bawp.todoister.activities.MainActivity$1
+com/bawp/todoister/viewmodels/TaskViewModel.java
+ com.bawp.todoister.viewmodels.TaskViewModel
+com/bawp/todoister/model/Task.java
+ com.bawp.todoister.model.Task
+com/bawp/todoister/activities/BottomSheetFragment.java
+ com.bawp.todoister.activities.BottomSheetFragment
+ com.bawp.todoister.activities.BottomSheetFragment$1
+ com.bawp.todoister.activities.BottomSheetFragment$2
+com/bawp/todoister/activities/TasksRecyclerViewAdapter.java
+ com.bawp.todoister.activities.TasksRecyclerViewAdapter
+ com.bawp.todoister.activities.TasksRecyclerViewAdapter$ViewHolder
+ com.bawp.todoister.activities.onToDoClickListener

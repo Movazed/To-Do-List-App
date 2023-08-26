@@ -1,0 +1,4 @@
+com/bawp/todoister/test/BuildConfig.java
+ com.bawp.todoister.test.BuildConfig
+com/bawp/todoister/ExampleInstrumentedTest.java
+ com.bawp.todoister.ExampleInstrumentedTest
